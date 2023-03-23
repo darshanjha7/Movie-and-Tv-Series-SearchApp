@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Movie-and-Tv-Series-SearchApp/static/css/main.8d66c6ff.css",
-    "main.js": "/Movie-and-Tv-Series-SearchApp/static/js/main.f7eed933.js",
+    "main.js": "/Movie-and-Tv-Series-SearchApp/static/js/main.c656436e.js",
     "index.html": "/Movie-and-Tv-Series-SearchApp/index.html",
     "main.8d66c6ff.css.map": "/Movie-and-Tv-Series-SearchApp/static/css/main.8d66c6ff.css.map",
-    "main.f7eed933.js.map": "/Movie-and-Tv-Series-SearchApp/static/js/main.f7eed933.js.map"
+    "main.c656436e.js.map": "/Movie-and-Tv-Series-SearchApp/static/js/main.c656436e.js.map"
   },
   "entrypoints": [
     "static/css/main.8d66c6ff.css",
-    "static/js/main.f7eed933.js"
+    "static/js/main.c656436e.js"
   ]
 }
