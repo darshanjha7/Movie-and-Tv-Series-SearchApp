@@ -17,14 +17,14 @@ export default function SimpleBottomNavigation() {
             navigate('/')
         }
         else if(value===1){
-            navigate('/movies');
+            navigate('/Movie-and-Tv-Series-SearchApp/movies');
             
         }
         else if(value===2){
-            navigate('/series');
+            navigate('/Movie-and-Tv-Series-SearchApp/series');
         }
         else{
-            navigate('/search')
+            navigate('/Movie-and-Tv-Series-SearchApp/search')
         }
     }, [value]);
     return (
