@@ -6,6 +6,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import axios from 'axios';
 import SingleContent from '../../SingleContent/SingleContent';
 import CustomPagination from '../../Pagination/Pagination';
+import '../Trending/Trending.css'
 const Search = () => {
   const [type, settype] = useState(0);
   const [page, setpage] = useState(1);
